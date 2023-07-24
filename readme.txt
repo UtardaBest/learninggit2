@@ -21,3 +21,5 @@ press esc then ": wq"
 git add .
 git commit -a -m "ui feature is added"
 
+//to merge
+git merge <branch name>
