@@ -8,6 +8,7 @@ git checkout <branch name>
 
 //to create file 
 vim <filename>.<extension>
+touch <filename>.<extension>
 
 //to edit the file 
 press i to chg to insert mode 
@@ -19,3 +20,4 @@ press esc then ": wq"
 //to commit
 git add .
 git commit -a -m "ui feature is added"
+
