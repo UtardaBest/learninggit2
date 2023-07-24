@@ -7,8 +7,8 @@ git branch <name>
 git checkout <branch name>
 
 //to create file 
-vim <filename>.<extension>
-touch <filename>.<extension>
+vim <filename>.<extension>   // goes into the file after creation
+touch <filename>.<extension> //empty file witout going in
 
 //to edit the file 
 press i to chg to insert mode 
