@@ -22,4 +22,5 @@ git add .
 git commit -a -m "ui feature is added"
 
 //to merge
-git merge <branch name>
+git merge <branch name> //pull other parallel branch to current
+git rebase <branch name> //pull other branches to update current
