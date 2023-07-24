@@ -28,3 +28,10 @@ git rebase <branch name> //pull other branches to update current
 //to add repo to github
 git remote add origin https://github.com/UtardaBest/learninggit2.git //for new repo
 git push origin --all //to push all branches to github
+
+//to create a new release 
+git log //to view past changes
+copy the first 6 characters //use right click
+git tag <version> <6 characters> //create a new tag
+git push --tag // upload to github
+
