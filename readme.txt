@@ -24,3 +24,7 @@ git commit -a -m "ui feature is added"
 //to merge
 git merge <branch name> //pull other parallel branch to current
 git rebase <branch name> //pull other branches to update current
+
+//to add repo to github
+git remote add origin https://github.com/UtardaBest/learninggit2.git //for new repo
+git push origin --all //to push all branches to github
